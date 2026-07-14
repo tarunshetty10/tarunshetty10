@@ -162,16 +162,6 @@ Applied responsive design and Git/GitHub version control across the full SDLC â€
 
 <br/>
 
-**Client Relationship & Sales Executive â€” HoneyVita** *(Self-Founded Brand)*
-<br/>
-*Mumbai, India | 2024*
-
-- Managed end-to-end client and shopkeeper relationships, onboarding 10+ retail partners through pitching, negotiation, and CRM follow-up
-- Developed communication scripts tailored to diverse customer segments, improving objection-handling and contributing to repeat order retention
-- Conducted B2B and B2C sales outreach, maintaining client pipeline and tracking leads across the sales funnel
-<br/>
-`CRM` `B2B/B2C Sales` `Client Onboarding` `Pipeline Management`
-
 <br/>
 
 **Freelance Visual Content Creator**
