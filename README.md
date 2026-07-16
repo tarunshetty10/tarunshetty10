@@ -12,7 +12,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarunshetty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tarun-shetty-m10)
 [![Email](https://img.shields.io/badge/Email-tshetty2020%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tshetty2020@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-tarunshetty10-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunshetty10)
 
